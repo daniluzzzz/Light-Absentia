@@ -1,0 +1,12 @@
+image_xscale=7;
+image_yscale=7;
+if(instance_exists(obj_player)){
+with(obj_player){instance_destroy();}}
+if(instance_exists(obj_candletemp)){
+with(obj_candletemp){instance_destroy();}}
+if(instance_exists(obj_candletempbar)){
+with(obj_candletempbar){instance_destroy();}}
+if(instance_exists(obj_candletemplight)){
+with(obj_candletemplight){instance_destroy();}}
+if(instance_exists(obj_lifebar)){
+with(obj_lifebar){instance_destroy();}}

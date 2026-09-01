@@ -1,0 +1,2 @@
+xinicial=x;
+yinicial=y;

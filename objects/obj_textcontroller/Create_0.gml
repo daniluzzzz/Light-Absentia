@@ -1,0 +1,9 @@
+alpha = 1;
+fade_speed = 0.02;
+mostrando_texto2 = false;
+texto2_alpha = 0;
+texto2_fading = false;
+texto2_ja_apareceu = false;  // ← NOVA VARIÁVEL
+contador = 0;
+ja_apertei_E = false;
+textos_finalizados = false; // NOVA VARIÁVEL

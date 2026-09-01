@@ -1,0 +1,1 @@
+image_alpha = 0; estado = "entrando"; fade_speed = 0.02; depth=-40000;
