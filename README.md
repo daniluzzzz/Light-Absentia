@@ -1,5 +1,6 @@
 ### Light Absentia
-Jogo Puzzle desenvolvido solo (arte e código) em 10 dias para a Game Demo Jam, usando GameMaker Studio 2.
+Jogo Puzzle desenvolvido solo (arte e código) em 10 dias para a Game Demo Jam, usando GameMaker Studio 2.  
+**6º colocado no Ranking Geral:** → [ranking completo](https://itch.io/jam/game-demo-jam-i/results)
 
 🔗 **Jogue em:** https://daniluzzz.itch.io/light-absentia
 
